@@ -1,0 +1,56 @@
+# Figure
+figure.titlesize: 14
+figure.figsize: 12, 8
+figure.facecolor: "#1C1E26"
+figure.dpi: 100
+
+# Axes
+axes.titlecolor: "#e95378"
+axes.facecolor: "#1C1E26"
+axes.labelcolor: "#ffffff"
+axes.linewidth: 0.8
+axes.grid: True
+axes.prop_cycle: cycler('color', ["#e95378", "#25B0BC", "#FAB795"])
+axes.labelsize: 10
+axes.titlesize: 14
+axes.titleweight: medium
+axes.titlepad: 20
+axes.edgecolor: "#ffffff"
+axes.spines.left: True
+axes.spines.bottom: True
+axes.spines.top: True
+axes.spines.right: True
+
+# Grid
+grid.color: "ffffff3d"
+grid.linestyle: --
+grid.linewidth: 0.8
+grid.alpha: 0.4
+
+# Lines
+lines.linewidth: 2.0
+lines.solid_capstyle: round
+
+# Ticks
+xtick.color: "#ffffff"
+ytick.color: "#ffffff"
+xtick.labelsize: 9
+ytick.labelsize: 9
+
+# Font
+font.family: Sora
+font.size: 10
+
+# Legend
+legend.facecolor: "#1C1E26"
+legend.edgecolor: "#ffffff3d"
+legend.fontsize: 9
+legend.framealpha: 0.8
+legend.borderpad: 0.8
+legend.labelcolor: "#ffffff"
+
+# Save
+savefig.facecolor: "#1C1E26"
+savefig.edgecolor: none
+
+svg.fonttype: none
