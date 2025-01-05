@@ -1,9 +1,13 @@
 [project]
 name = "wireless-mab"
 version = "0.1.0"
-description = "Add your description here"
+description = "Multi-Armed Bandit Simulation for Wireless Channel Selection"
 readme = "README.md"
 requires-python = ">=3.11"
+license = "MIT"
+authors = [
+    {name = "vdesmond", email = "vignesh.desmond@gmail.com"},
+]
 dependencies = [
     "matplotlib>=3.10.0",
     "numpy>=2.2.1",
