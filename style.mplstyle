@@ -10,7 +10,7 @@ axes.facecolor: "#1C1E26"
 axes.labelcolor: "#ffffff"
 axes.linewidth: 0.8
 axes.grid: True
-axes.prop_cycle: cycler('color', ["#e95378", "#25B0BC", "#FAB795"])
+axes.prop_cycle: cycler('color', ["#e95378", "#25B0BC", "#FAB795", "#B877DB", "#27D797", "#FBC3A7", "#21BFC2", "#E9436F", "#09F7A0"])
 axes.labelsize: 10
 axes.titlesize: 14
 axes.titleweight: medium
@@ -52,5 +52,3 @@ legend.labelcolor: "#ffffff"
 # Save
 savefig.facecolor: "#1C1E26"
 savefig.edgecolor: none
-
-svg.fonttype: none
